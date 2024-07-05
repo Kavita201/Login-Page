@@ -1,0 +1,69 @@
+
+body {
+    background-color: white;
+    
+    height: 800px;
+}
+
+
+#id1 {
+    background-color: rgb(168, 141, 180);
+    background-image: linear-gradient(to right,rgb(216, 103, 216) ,rgb(96, 146, 206));
+    height: 400px;
+    width: 300px;
+    border: solid 2px black;
+    padding: 40px;
+    position: relative;
+    left: 390px;
+    top: 50px;
+}
+.u{
+    color: white;
+}
+
+.username-input {
+    width: 250px; 
+    background-color: rgb(161, 56, 161);
+}
+
+
+
+.password-input {
+    width: 250px; 
+    background-color: rgb(161, 56, 161);
+}
+
+
+.forgot-password {
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    color: rgb(234, 232, 232);
+}
+.form-center1 { 
+    text-align: center;
+    position: relative;
+    
+}
+
+.form-center { 
+    text-align: center;
+    position: relative;
+    left:80px ;
+}
+.c4{
+    background-image: linear-gradient(to right,rgb(148, 6, 164) ,rgb(212, 150, 208));
+    display: block;
+    width: 255px;
+}
+
+#id2{
+      position: relative;
+      left: 80px;
+}
+.button{
+    background-color: rgb(161, 56, 161);
+    position: relative;
+    left: 100px;
+    
+}
